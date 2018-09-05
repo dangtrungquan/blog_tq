@@ -1,0 +1,2219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dotted v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-11-01 03:23:34+0000\n"
+"Last-Translator: admin <learn@oceanthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:14
+#@ dotted
+msgid "404"
+msgstr ""
+
+#: 404.php:15
+#@ dotted
+msgid "Oops. You have encountered an error."
+msgstr ""
+
+#: 404.php:16
+#@ dotted
+msgid "It appears the page your were looking for does not exist. Sorry about that."
+msgstr ""
+
+#: 404.php:18
+#@ dotted
+msgid "Try to search something..."
+msgstr ""
+
+#: 404.php:22
+#@ dotted
+msgid " GO BACK TO HOME"
+msgstr ""
+
+#: archive-portfolio.php:33
+#@ dotted
+msgid "All"
+msgstr ""
+
+#: comments.php:28
+#@ dotted
+msgid "Comments"
+msgstr ""
+
+#: comments.php:29
+#@ dotted
+msgid "There are "
+msgstr ""
+
+#: comments.php:29
+#@ dotted
+msgid "0"
+msgstr ""
+
+#: comments.php:29
+#@ dotted
+msgid "1"
+msgstr ""
+
+#: comments.php:29
+#@ dotted
+msgid "%"
+msgstr ""
+
+#: comments.php:29
+#@ dotted
+msgid " comments on this post."
+msgstr ""
+
+#: comments.php:37
+#@ dotted
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+#@ dotted
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:44
+#@ dotted
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:56
+#@ dotted
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:58
+#@ dotted
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:59
+#@ dotted
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:61
+#@ dotted
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:62
+#@ dotted
+msgid "post comment"
+msgstr ""
+
+#: content-audio.php:24
+#: content-gallery.php:31
+#: content-image.php:29
+#: content-video.php:29
+#: content.php:23
+#: page-templates/template-blog-masonry.php:106
+#: page-templates/template-blog-timeline-full.php:105
+#: page-templates/template-blog-timeline.php:107
+#: shortcodes.php:693
+#@ dotted
+msgid "[ read more ]"
+msgstr ""
+
+#: content-audio.php:29
+#: content-gallery.php:36
+#: content-image.php:34
+#: content-video.php:34
+#: content.php:28
+#: page-templates/template-blog-masonry.php:111
+#: page-templates/template-blog-timeline-full.php:110
+#: page-templates/template-blog-timeline.php:112
+#: shortcodes.php:603
+#: shortcodes.php:698
+#: single.php:104
+#@ dotted
+msgid "Posted by "
+msgstr ""
+
+#: content-audio.php:30
+#: content-gallery.php:37
+#: content-image.php:35
+#: content-video.php:35
+#: content.php:29
+#: page-templates/template-blog-masonry.php:112
+#: page-templates/template-blog-timeline-full.php:111
+#: page-templates/template-blog-timeline.php:113
+#: shortcodes.php:604
+#: shortcodes.php:699
+#: single.php:105
+#@ dotted
+msgid "on "
+msgstr ""
+
+#: content-audio.php:31
+#: content-gallery.php:38
+#: content-image.php:36
+#: content-video.php:36
+#: content.php:30
+#: page-templates/template-blog-masonry.php:113
+#: page-templates/template-blog-timeline-full.php:112
+#: page-templates/template-blog-timeline.php:114
+#: shortcodes.php:605
+#: shortcodes.php:700
+#: single.php:106
+#@ dotted
+msgid "comment"
+msgstr ""
+
+#: content-audio.php:31
+#: content-gallery.php:38
+#: content-image.php:36
+#: content-video.php:36
+#: content.php:30
+#: page-templates/template-blog-masonry.php:113
+#: page-templates/template-blog-timeline-full.php:112
+#: page-templates/template-blog-timeline.php:114
+#: shortcodes.php:605
+#: shortcodes.php:700
+#: single.php:106
+#@ dotted
+msgid "comments"
+msgstr ""
+
+#: framework/BFI_Thumb.php:145
+#@ dotted
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: framework/BFI_Thumb.php:273
+#@ dotted
+msgid "Image rotate failed."
+msgstr ""
+
+#: framework/BFI_Thumb.php:296
+#@ dotted
+msgid "Image opacity change failed."
+msgstr ""
+
+#: framework/BFI_Thumb.php:383
+#@ dotted
+msgid "Image color change failed."
+msgstr ""
+
+#: framework/BFI_Thumb.php:400
+#@ dotted
+msgid "Image grayscale failed."
+msgstr ""
+
+#: framework/BFI_Thumb.php:417
+#@ dotted
+msgid "Image negate failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:334
+#@ dotted
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:335
+#@ dotted
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+#@ dotted
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/class-tgm-plugin-activation.php:339
+#, php-format
+#@ dotted
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:340
+#@ dotted
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:343
+#, php-format
+#@ dotted
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:349
+#, php-format
+#@ dotted
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:355
+#, php-format
+#@ dotted
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:361
+#, php-format
+#@ dotted
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:367
+#, php-format
+#@ dotted
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/class-tgm-plugin-activation.php:373
+#, php-format
+#@ dotted
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:378
+#@ dotted
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:383
+#@ dotted
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:388
+#@ dotted
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:392
+#@ dotted
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+#: framework/class-tgm-plugin-activation.php:912
+#: framework/class-tgm-plugin-activation.php:2618
+#: framework/class-tgm-plugin-activation.php:3665
+#@ dotted
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:394
+#: framework/class-tgm-plugin-activation.php:3244
+#@ dotted
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+#@ dotted
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+#@ dotted
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/class-tgm-plugin-activation.php:401
+#, php-format
+#@ dotted
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+#@ dotted
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:403
+#@ dotted
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:404
+#@ dotted
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:607
+#@ dotted
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:608
+#@ dotted
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+#@ dotted
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1019
+#: framework/class-tgm-plugin-activation.php:1022
+#@ dotted
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1022
+#@ dotted
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1206
+#: framework/class-tgm-plugin-activation.php:3033
+#@ dotted
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ dotted
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2358
+#@ dotted
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2361
+#@ dotted
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2377
+#@ dotted
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2380
+#@ dotted
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2383
+#@ dotted
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2400
+#@ dotted
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2404
+#@ dotted
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2406
+#@ dotted
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2412
+#@ dotted
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2415
+#@ dotted
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2418
+#@ dotted
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/class-tgm-plugin-activation.php:2427
+#, php-format
+#@ dotted
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2473
+#, php-format
+#@ dotted
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2477
+#, php-format
+#@ dotted
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2481
+#, php-format
+#@ dotted
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/class-tgm-plugin-activation.php:2485
+#, php-format
+#@ dotted
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2567
+#@ dotted
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2575
+#@ dotted
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2583
+#@ dotted
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2595
+#@ dotted
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2618
+#@ dotted
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2632
+#@ dotted
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2633
+#@ dotted
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2634
+#@ dotted
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2638
+#@ dotted
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2639
+#@ dotted
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2688
+#, php-format
+#@ dotted
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2693
+#, php-format
+#@ dotted
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/class-tgm-plugin-activation.php:2699
+#, php-format
+#@ dotted
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2769
+#@ dotted
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2802
+#@ dotted
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2808
+#@ dotted
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2811
+#@ dotted
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2842
+#@ dotted
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2844
+#@ dotted
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2885
+#@ dotted
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2887
+#@ dotted
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2993
+#@ dotted
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3019
+#@ dotted
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/class-tgm-plugin-activation.php:3037
+#: framework/class-tgm-plugin-activation.php:395
+#@ dotted
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:3243
+#@ dotted
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3583
+#, php-format
+#@ dotted
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/class-tgm-plugin-activation.php:3586
+#, php-format
+#@ dotted
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3588
+#, php-format
+#@ dotted
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3592
+#@ dotted
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3594
+#, php-format
+#@ dotted
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+#: framework/class-tgm-plugin-activation.php:3602
+#@ dotted
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3594
+#: framework/class-tgm-plugin-activation.php:3602
+#@ dotted
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3595
+#@ dotted
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3597
+#, php-format
+#@ dotted
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3600
+#@ dotted
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/class-tgm-plugin-activation.php:3602
+#, php-format
+#@ dotted
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3603
+#@ dotted
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/class-tgm-plugin-activation.php:3605
+#, php-format
+#@ dotted
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/customizer.php:156
+#: framework/customizer.php:183
+#@ dotted
+msgid "General"
+msgstr ""
+
+#: framework/customizer.php:160
+#@ dotted
+msgid "Header"
+msgstr ""
+
+#: framework/customizer.php:164
+#: framework/customizer.php:206
+#: framework/customizer.php:286
+#: framework/customizer.php:670
+#@ dotted
+msgid "Socials"
+msgstr ""
+
+#: framework/customizer.php:168
+#: framework/customizer.php:239
+#@ dotted
+msgid "Styling"
+msgstr ""
+
+#: framework/customizer.php:176
+#@ dotted
+msgid "Top Header"
+msgstr ""
+
+#: framework/customizer.php:190
+#@ dotted
+msgid "Site Logo"
+msgstr ""
+
+#: framework/customizer.php:197
+#: framework/customizer.php:444
+#@ dotted
+msgid "Page Header"
+msgstr ""
+
+#: framework/customizer.php:215
+#@ dotted
+msgid "Blog"
+msgstr ""
+
+#: framework/customizer.php:223
+#@ dotted
+msgid "Footer"
+msgstr ""
+
+#: framework/customizer.php:231
+#@ dotted
+msgid "Coming Soon"
+msgstr ""
+
+#: framework/customizer.php:250
+#@ dotted
+msgid "Top Bar"
+msgstr ""
+
+#: framework/customizer.php:257
+#@ dotted
+msgid "Background Top Header"
+msgstr ""
+
+#: framework/customizer.php:271
+#@ dotted
+msgid "Top Header Text Color"
+msgstr ""
+
+#: framework/customizer.php:293
+#: framework/customizer.php:677
+#@ dotted
+msgid "Icon Class"
+msgstr ""
+
+#: framework/customizer.php:294
+#: framework/customizer.php:678
+#@ dotted
+msgid "This will be the social icon: http://fontawesome.io/icons/"
+msgstr ""
+
+#: framework/customizer.php:299
+#: framework/customizer.php:683
+#@ dotted
+msgid "Link URL"
+msgstr ""
+
+#: framework/customizer.php:300
+#: framework/customizer.php:684
+#@ dotted
+msgid "This will be the social link"
+msgstr ""
+
+#: framework/customizer.php:314
+#@ dotted
+msgid "Top Info"
+msgstr ""
+
+#: framework/customizer.php:315
+#@ dotted
+msgid "Following format: <ul><li></li><li></li>...</ul>"
+msgstr ""
+
+#: framework/customizer.php:331
+#@ dotted
+msgid "Header Layout"
+msgstr ""
+
+#: framework/customizer.php:336
+#@ dotted
+msgid "Header v1"
+msgstr ""
+
+#: framework/customizer.php:337
+#@ dotted
+msgid "Header v2"
+msgstr ""
+
+#: framework/customizer.php:342
+#@ dotted
+msgid "Background Menu Header"
+msgstr ""
+
+#: framework/customizer.php:349
+#@ dotted
+msgid "Color Menu"
+msgstr ""
+
+#: framework/customizer.php:356
+#@ dotted
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/customizer.php:363
+#@ dotted
+msgid "Seperator"
+msgstr ""
+
+#: framework/customizer.php:375
+#@ dotted
+msgid "Line"
+msgstr ""
+
+#: framework/customizer.php:376
+#@ dotted
+msgid "Dotted"
+msgstr ""
+
+#: framework/customizer.php:377
+#@ dotted
+msgid "Circle"
+msgstr ""
+
+#: framework/customizer.php:389
+#@ dotted
+msgid "Cart"
+msgstr ""
+
+#: framework/customizer.php:396
+#@ dotted
+msgid "Search"
+msgstr ""
+
+#: framework/customizer.php:405
+#@ dotted
+msgid "Logo"
+msgstr ""
+
+#: framework/customizer.php:412
+#@ dotted
+msgid "Logo Width"
+msgstr ""
+
+#: framework/customizer.php:419
+#@ dotted
+msgid "Logo Height"
+msgstr ""
+
+#: framework/customizer.php:426
+#@ dotted
+msgid "Logo Margin"
+msgstr ""
+
+#: framework/customizer.php:445
+#@ dotted
+msgid "Enable to show page header on whole site"
+msgstr ""
+
+#: framework/customizer.php:452
+#@ dotted
+msgid "Page Header Layout"
+msgstr ""
+
+#: framework/customizer.php:457
+#@ dotted
+msgid "Layout 1"
+msgstr ""
+
+#: framework/customizer.php:458
+#@ dotted
+msgid "Layout 2"
+msgstr ""
+
+#: framework/customizer.php:459
+#@ dotted
+msgid "Layout 3"
+msgstr ""
+
+#: framework/customizer.php:471
+#: framework/customizer.php:655
+#@ dotted
+msgid "Background Image"
+msgstr ""
+
+#: framework/customizer.php:472
+#@ dotted
+msgid "Upload a page header background image"
+msgstr ""
+
+#: framework/customizer.php:492
+#@ dotted
+msgid "Breadcrumb"
+msgstr ""
+
+#: framework/customizer.php:493
+#@ dotted
+msgid "Enable to show a breadcrumb bellow the site header"
+msgstr ""
+
+#: framework/customizer.php:511
+#@ dotted
+msgid "Excerpt Length"
+msgstr ""
+
+#: framework/customizer.php:523
+#@ dotted
+msgid "Show Sharing Icons"
+msgstr ""
+
+#: framework/customizer.php:524
+#@ dotted
+msgid "Display social sharing icons for each post on single page"
+msgstr ""
+
+#: framework/customizer.php:531
+#@ dotted
+msgid "Show Related Posts"
+msgstr ""
+
+#: framework/customizer.php:532
+#@ dotted
+msgid "Display related posts for each post on single page"
+msgstr ""
+
+#: framework/customizer.php:541
+#@ dotted
+msgid "Footer Widget"
+msgstr ""
+
+#: framework/customizer.php:548
+#@ dotted
+msgid "Background Image Footer"
+msgstr ""
+
+#: framework/customizer.php:562
+#@ dotted
+msgid "Background Color Footer"
+msgstr ""
+
+#: framework/customizer.php:576
+#: framework/customizer.php:625
+#@ dotted
+msgid "Color Text Footer"
+msgstr ""
+
+#: framework/customizer.php:590
+#@ dotted
+msgid "Color Title Footer"
+msgstr ""
+
+#: framework/customizer.php:604
+#@ dotted
+msgid "Footer Bottom"
+msgstr ""
+
+#: framework/customizer.php:611
+#@ dotted
+msgid "Background Bottom Footer"
+msgstr ""
+
+#: framework/customizer.php:639
+#@ dotted
+msgid "Copy Right Text"
+msgstr ""
+
+#: framework/customizer.php:662
+#@ dotted
+msgid "Date Time"
+msgstr ""
+
+#: framework/customizer.php:665
+#@ dotted
+msgid "Date format: dd/mm/yyyy. Example: 10/25/2017"
+msgstr ""
+
+#: framework/customizer.php:693
+#@ dotted
+msgid "Boxed Layout"
+msgstr ""
+
+#: framework/customizer.php:700
+#@ dotted
+msgid "Background Body"
+msgstr ""
+
+#: framework/customizer.php:714
+#@ dotted
+msgid "Background Image Body"
+msgstr ""
+
+#: framework/customizer.php:728
+#@ dotted
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/customizer.php:747
+#@ dotted
+msgid "Preloader"
+msgstr ""
+
+#: framework/customizer.php:754
+#@ dotted
+msgid "Primary Color"
+msgstr ""
+
+#: framework/customizer.php:761
+#@ dotted
+msgid "Custom Code"
+msgstr ""
+
+#: framework/customizer.php:762
+#@ dotted
+msgid "Add more js, css, html... code here."
+msgstr ""
+
+#: framework/headers/header-1.php:67
+#: framework/headers/header-2.php:66
+#@ dotted
+msgid "Type & Search"
+msgstr ""
+
+#: framework/meta-boxes.php:20
+#@ dotted
+msgid "Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:34
+#: vc_shortcode.php:263
+#@ dotted
+msgid "Image"
+msgstr ""
+
+#: framework/meta-boxes.php:48
+#@ dotted
+msgid "Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:60
+#@ dotted
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:78
+#@ dotted
+msgid "Video"
+msgstr ""
+
+#: framework/meta-boxes.php:100
+#@ dotted
+msgid "Projects Settings"
+msgstr ""
+
+#: framework/meta-boxes.php:108
+#@ dotted
+msgid "Video Popup Link"
+msgstr ""
+
+#: framework/plugin-requires.php:8
+#@ dotted
+msgid "Meta Box"
+msgstr ""
+
+#: framework/plugin-requires.php:15
+#@ dotted
+msgid "Kirki Customizer"
+msgstr ""
+
+#: framework/plugin-requires.php:20
+#@ dotted
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/plugin-requires.php:26
+#@ dotted
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/plugin-requires.php:31
+#@ dotted
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/plugin-requires.php:36
+#@ dotted
+msgid "Breadcrumb Navxt"
+msgstr ""
+
+#: framework/plugin-requires.php:41
+#@ dotted
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: framework/plugin-requires.php:46
+#@ dotted
+msgid "LayerSlider"
+msgstr ""
+
+#: framework/plugin-requires.php:53
+#@ dotted
+msgid "OT Team"
+msgstr ""
+
+#: framework/plugin-requires.php:60
+#@ dotted
+msgid "OT Portfolio"
+msgstr ""
+
+#: framework/plugin-requires.php:66
+#@ dotted
+msgid "OT Testimonials"
+msgstr ""
+
+#: framework/plugin-requires.php:72
+#@ dotted
+msgid "OT One Click Import Demo"
+msgstr ""
+
+#: framework/subheaders/subheader1.php:10
+#: framework/subheaders/subheader2.php:10
+#: framework/subheaders/subheader3.php:10
+#@ dotted
+msgid "Blog Single"
+msgstr ""
+
+#: framework/subheaders/subheader1.php:12
+#: framework/subheaders/subheader2.php:12
+#: framework/subheaders/subheader3.php:12
+#, php-format
+#@ dotted
+msgid "Search Results for: %s"
+msgstr ""
+
+#: framework/template-tags.php:28
+#, php-format
+#@ dotted
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:57
+#, php-format
+#@ dotted
+msgctxt "post author"
+msgid "By: %s"
+msgstr ""
+
+#: framework/template-tags.php:183
+#@ dotted
+msgid "Type & Search..."
+msgstr ""
+
+#: framework/template-tags.php:201
+#, php-format
+#@ dotted
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:207
+#@ dotted
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/widget/flickr.php:21
+#@ dotted
+msgid "Displays your latest Flickr feed."
+msgstr ""
+
+#: framework/widget/flickr.php:49
+#@ dotted
+msgid "Flickr"
+msgstr ""
+
+#: framework/widget/flickr.php:173
+#@ dotted
+msgid "Flickr Name"
+msgstr ""
+
+#: framework/widget/flickr.php:193
+#@ dotted
+msgid "Flickr Type:"
+msgstr ""
+
+#: framework/widget/flickr.php:201
+#@ dotted
+msgid "user"
+msgstr ""
+
+#: framework/widget/flickr.php:205
+#@ dotted
+msgid "group"
+msgstr ""
+
+#: framework/widget/flickr.php:229
+#@ dotted
+msgid "Flickr ID"
+msgstr ""
+
+#: framework/widget/flickr.php:253
+#@ dotted
+msgid "Number of photos:"
+msgstr ""
+
+#: framework/widget/recentpost.php:33
+#@ dotted
+msgid "Dotted Recent Posts"
+msgstr ""
+
+#: framework/widget/recentpost.php:45
+#: framework/widget/sliderpost.php:45
+#@ dotted
+msgid "Dotted Latest News"
+msgstr ""
+
+#: framework/widget/recentpost.php:76
+#@ dotted
+msgid "Latest News"
+msgstr ""
+
+#: framework/widget/recentpost.php:199
+#: framework/widget/sliderpost.php:189
+#@ dotted
+msgid "Title:"
+msgstr ""
+
+#: framework/widget/recentpost.php:207
+#@ dotted
+msgid "Show date time"
+msgstr ""
+
+#: framework/widget/recentpost.php:211
+#: framework/widget/sliderpost.php:195
+#@ dotted
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/widget/sliderpost.php:33
+#@ dotted
+msgid "Slider Recent Posts"
+msgstr ""
+
+#: framework/widget/sliderpost.php:76
+#@ dotted
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: framework/widget/sliderpost.php:124
+#@ dotted
+msgid "READ BLOG"
+msgstr ""
+
+#: framework/widget/sliderpost.php:206
+#@ dotted
+msgid "Button Link:"
+msgstr ""
+
+#: functions.php:51
+#@ dotted
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:52
+#@ dotted
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:53
+#@ dotted
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:103
+#@ dotted
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:105
+#: functions.php:114
+#@ dotted
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:112
+#@ dotted
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:121
+#@ dotted
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:123
+#: functions.php:133
+#: functions.php:143
+#: functions.php:153
+#@ dotted
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:131
+#@ dotted
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:141
+#@ dotted
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:151
+#@ dotted
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: functions.php:174
+#@ dotted
+msgctxt "Oswald font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:180
+#@ dotted
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:304
+#@ dotted
+msgid "Setup Full Width"
+msgstr ""
+
+#: functions.php:307
+#@ dotted
+msgid "No"
+msgstr ""
+
+#: functions.php:308
+#@ dotted
+msgid "Yes"
+msgstr ""
+
+#: functions.php:310
+#@ dotted
+msgid "Select Full width for row : yes or not, Default: No fullwidth"
+msgstr ""
+
+#: functions.php:315
+#@ dotted
+msgid "Background Parallax"
+msgstr ""
+
+#: index.php:21
+#@ dotted
+msgid "Blog News"
+msgstr ""
+
+#: page-templates/template-canvas.php:15
+#: single-portfolio.php:23
+#: single-team.php:24
+#@ dotted
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: page-templates/template-coming-soon.php:35
+#@ dotted
+msgid "Under Construction"
+msgstr ""
+
+#: page-templates/template-coming-soon.php:36
+#@ dotted
+msgid "We are coming soon"
+msgstr ""
+
+#: page-templates/template-coming-soon.php:42
+#@ dotted
+msgid "days"
+msgstr ""
+
+#: page-templates/template-coming-soon.php:47
+#@ dotted
+msgid "hours"
+msgstr ""
+
+#: page-templates/template-coming-soon.php:52
+#@ dotted
+msgid "minutes"
+msgstr ""
+
+#: page-templates/template-coming-soon.php:57
+#@ dotted
+msgid "seconds"
+msgstr ""
+
+#: page-templates/template-coming-soon.php:61
+#@ dotted
+msgid "Stay Connect With Us"
+msgstr ""
+
+#: page.php:45
+#@ dotted
+msgid "Pages:"
+msgstr ""
+
+#: page.php:49
+#@ dotted
+msgid "Page"
+msgstr ""
+
+#: search.php:42
+#@ dotted
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:45
+#@ dotted
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: single-portfolio.php:29
+#@ dotted
+msgid "Related Project"
+msgstr ""
+
+#: single.php:110
+#@ dotted
+msgid "Share this article : "
+msgstr ""
+
+#: single.php:125
+#@ dotted
+msgid "Next Article <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: single.php:126
+#@ dotted
+msgid "Next Article:"
+msgstr ""
+
+#: single.php:127
+#@ dotted
+msgid "<i class=\"fa fa-angle-left\"></i> Previous Article"
+msgstr ""
+
+#: single.php:128
+#@ dotted
+msgid "Previous Article:"
+msgstr ""
+
+#: single.php:133
+#@ dotted
+msgid "Related Posts"
+msgstr ""
+
+#: vc_shortcode.php:7
+#@ dotted
+msgid "OT Button"
+msgstr ""
+
+#: vc_shortcode.php:17
+#: vc_shortcode.php:241
+#: vc_shortcode.php:394
+#: vc_shortcode.php:455
+#@ dotted
+msgid "Button"
+msgstr ""
+
+#: vc_shortcode.php:24
+#: vc_shortcode.php:217
+#: vc_shortcode.php:716
+#@ dotted
+msgid "Icon"
+msgstr ""
+
+#: vc_shortcode.php:32
+#@ dotted
+msgid "Button Size"
+msgstr ""
+
+#: vc_shortcode.php:35
+#@ dotted
+msgid "Medium"
+msgstr ""
+
+#: vc_shortcode.php:36
+#@ dotted
+msgid "Larg"
+msgstr ""
+
+#: vc_shortcode.php:37
+#@ dotted
+msgid "Extra Larg"
+msgstr ""
+
+#: vc_shortcode.php:44
+#@ dotted
+msgid "Button Color"
+msgstr ""
+
+#: vc_shortcode.php:47
+#@ dotted
+msgid "Main Color"
+msgstr ""
+
+#: vc_shortcode.php:48
+#@ dotted
+msgid "Dark Color"
+msgstr ""
+
+#: vc_shortcode.php:49
+#@ dotted
+msgid "Border Main Color"
+msgstr ""
+
+#: vc_shortcode.php:50
+#@ dotted
+msgid "Border Dark Color"
+msgstr ""
+
+#: vc_shortcode.php:57
+#@ dotted
+msgid "Button Style"
+msgstr ""
+
+#: vc_shortcode.php:60
+#@ dotted
+msgid "Normal"
+msgstr ""
+
+#: vc_shortcode.php:61
+#@ dotted
+msgid "Rounded"
+msgstr ""
+
+#: vc_shortcode.php:62
+#@ dotted
+msgid "Pill"
+msgstr ""
+
+#: vc_shortcode.php:71
+#@ dotted
+msgid "OT Member Team"
+msgstr ""
+
+#: vc_shortcode.php:81
+#@ dotted
+msgid "Photo"
+msgstr ""
+
+#: vc_shortcode.php:89
+#@ dotted
+msgid "Member Name"
+msgstr ""
+
+#: vc_shortcode.php:97
+#@ dotted
+msgid "Member Job"
+msgstr ""
+
+#: vc_shortcode.php:105
+#@ dotted
+msgid "Member Link"
+msgstr ""
+
+#: vc_shortcode.php:113
+#@ dotted
+msgid "Member Details"
+msgstr ""
+
+#: vc_shortcode.php:119
+#@ dotted
+msgid "Social 1"
+msgstr ""
+
+#: vc_shortcode.php:121
+#: vc_shortcode.php:127
+#: vc_shortcode.php:133
+#: vc_shortcode.php:139
+#@ dotted
+msgid "Add icon socials follow: http://fontawesome.io/icons/"
+msgstr ""
+
+#: vc_shortcode.php:125
+#@ dotted
+msgid "Social 2"
+msgstr ""
+
+#: vc_shortcode.php:131
+#@ dotted
+msgid "Social 3"
+msgstr ""
+
+#: vc_shortcode.php:137
+#@ dotted
+msgid "Social 4"
+msgstr ""
+
+#: vc_shortcode.php:143
+#: vc_shortcode.php:165
+#: vc_shortcode.php:205
+#: vc_shortcode.php:303
+#: vc_shortcode.php:342
+#: vc_shortcode.php:429
+#: vc_shortcode.php:647
+#: vc_shortcode.php:788
+#: vc_shortcode.php:869
+#@ dotted
+msgid "Style"
+msgstr ""
+
+#: vc_shortcode.php:146
+#@ dotted
+msgid "Square Photo"
+msgstr ""
+
+#: vc_shortcode.php:147
+#@ dotted
+msgid "Circle Photo"
+msgstr ""
+
+#: vc_shortcode.php:157
+#@ dotted
+msgid "OT Team Slider"
+msgstr ""
+
+#: vc_shortcode.php:168
+#@ dotted
+msgid "Style 1 : Square Photo"
+msgstr ""
+
+#: vc_shortcode.php:169
+#@ dotted
+msgid "Style 2 : Circle Photo"
+msgstr ""
+
+#: vc_shortcode.php:176
+#@ dotted
+msgid "Columns"
+msgstr ""
+
+#: vc_shortcode.php:179
+#@ dotted
+msgid "Enter number columns. Recommend: 3, 4 or 5"
+msgstr ""
+
+#: vc_shortcode.php:185
+#: vc_shortcode.php:520
+#: vc_shortcode.php:563
+#@ dotted
+msgid "Speed Slider"
+msgstr ""
+
+#: vc_shortcode.php:188
+#@ dotted
+msgid "Enter number millisecond. Default: 7000"
+msgstr ""
+
+#: vc_shortcode.php:197
+#@ dotted
+msgid "OT Icon Box"
+msgstr ""
+
+#: vc_shortcode.php:208
+#@ dotted
+msgid "Style 1 : Verticle Box"
+msgstr ""
+
+#: vc_shortcode.php:209
+#@ dotted
+msgid "Style 2 : Horizontal Box"
+msgstr ""
+
+#: vc_shortcode.php:210
+#@ dotted
+msgid "Style 3 : Small Box"
+msgstr ""
+
+#: vc_shortcode.php:225
+#: vc_shortcode.php:353
+#: vc_shortcode.php:441
+#: vc_shortcode.php:658
+#: vc_shortcode.php:724
+#: vc_shortcode.php:763
+#: vc_shortcode.php:806
+#@ dotted
+msgid "Title"
+msgstr ""
+
+#: vc_shortcode.php:228
+#@ dotted
+msgid "Title of box"
+msgstr ""
+
+#: vc_shortcode.php:234
+#: vc_shortcode.php:388
+#: vc_shortcode.php:449
+#@ dotted
+msgid "Description"
+msgstr ""
+
+#: vc_shortcode.php:237
+#@ dotted
+msgid "content right."
+msgstr ""
+
+#: vc_shortcode.php:243
+#: vc_shortcode.php:396
+#: vc_shortcode.php:457
+#@ dotted
+msgid "Add link to Button."
+msgstr ""
+
+#: vc_shortcode.php:253
+#@ dotted
+msgid "OT Testimonial Item"
+msgstr ""
+
+#: vc_shortcode.php:271
+#@ dotted
+msgid "Name"
+msgstr ""
+
+#: vc_shortcode.php:277
+#@ dotted
+msgid "Extra"
+msgstr ""
+
+#: vc_shortcode.php:284
+#@ dotted
+msgid "Content"
+msgstr ""
+
+#: vc_shortcode.php:295
+#@ dotted
+msgid "OT Testimonial Silder"
+msgstr ""
+
+#: vc_shortcode.php:306
+#@ dotted
+msgid "Style 1 : Without Avatar"
+msgstr ""
+
+#: vc_shortcode.php:307
+#@ dotted
+msgid "Style 2 : With Avatar 1"
+msgstr ""
+
+#: vc_shortcode.php:308
+#@ dotted
+msgid "Style 3 : With Avatar 2"
+msgstr ""
+
+#: vc_shortcode.php:315
+#@ dotted
+msgid "Title and Navigation"
+msgstr ""
+
+#: vc_shortcode.php:318
+#@ dotted
+msgid "Enter title to show navigation."
+msgstr ""
+
+#: vc_shortcode.php:324
+#@ dotted
+msgid "Slide Speed"
+msgstr ""
+
+#: vc_shortcode.php:326
+#@ dotted
+msgid "Enter number millisecond. Default: 6000."
+msgstr ""
+
+#: vc_shortcode.php:334
+#@ dotted
+msgid "OT Pricing Table"
+msgstr ""
+
+#: vc_shortcode.php:345
+#@ dotted
+msgid "Pricing Table Style 1"
+msgstr ""
+
+#: vc_shortcode.php:346
+#@ dotted
+msgid "Pricing Table Style 2"
+msgstr ""
+
+#: vc_shortcode.php:356
+#@ dotted
+msgid "Title of table"
+msgstr ""
+
+#: vc_shortcode.php:362
+#@ dotted
+msgid "Price"
+msgstr ""
+
+#: vc_shortcode.php:370
+#@ dotted
+msgid "Per"
+msgstr ""
+
+#: vc_shortcode.php:379
+#@ dotted
+msgid "Short Description"
+msgstr ""
+
+#: vc_shortcode.php:402
+#@ dotted
+msgid "Border Full"
+msgstr ""
+
+#: vc_shortcode.php:411
+#@ dotted
+msgid "Feature Table?"
+msgstr ""
+
+#: vc_shortcode.php:421
+#@ dotted
+msgid "OT Call To Action"
+msgstr ""
+
+#: vc_shortcode.php:432
+#@ dotted
+msgid "Style 1(Light)"
+msgstr ""
+
+#: vc_shortcode.php:433
+#@ dotted
+msgid "Style 2(Dark)"
+msgstr ""
+
+#: vc_shortcode.php:434
+#@ dotted
+msgid "Style 3(2 Buttons)"
+msgstr ""
+
+#: vc_shortcode.php:461
+#@ dotted
+msgid "Button 2"
+msgstr ""
+
+#: vc_shortcode.php:469
+#@ dotted
+msgid "Icon Button"
+msgstr ""
+
+#: vc_shortcode.php:481
+#@ dotted
+msgid "OT Latest Blog"
+msgstr ""
+
+#: vc_shortcode.php:491
+#: vc_shortcode.php:661
+#@ dotted
+msgid "Title With Navigation"
+msgstr ""
+
+#: vc_shortcode.php:499
+#: vc_shortcode.php:541
+#@ dotted
+msgid "Number Post Show"
+msgstr ""
+
+#: vc_shortcode.php:502
+#: vc_shortcode.php:544
+#: vc_shortcode.php:671
+#@ dotted
+msgid "Non-existing number for show all post."
+msgstr ""
+
+#: vc_shortcode.php:508
+#: vc_shortcode.php:550
+#@ dotted
+msgid "Number Visible"
+msgstr ""
+
+#: vc_shortcode.php:511
+#: vc_shortcode.php:553
+#@ dotted
+msgid "1 Item"
+msgstr ""
+
+#: vc_shortcode.php:512
+#: vc_shortcode.php:554
+#@ dotted
+msgid "2 Items"
+msgstr ""
+
+#: vc_shortcode.php:513
+#: vc_shortcode.php:555
+#@ dotted
+msgid "3 Items"
+msgstr ""
+
+#: vc_shortcode.php:523
+#: vc_shortcode.php:566
+#@ dotted
+msgid "Default: 6000."
+msgstr ""
+
+#: vc_shortcode.php:531
+#@ dotted
+msgid "OT Latest Blog 2"
+msgstr ""
+
+#: vc_shortcode.php:556
+#@ dotted
+msgid "4 Items"
+msgstr ""
+
+#: vc_shortcode.php:574
+#@ dotted
+msgid "OT Portfolio Filter"
+msgstr ""
+
+#: vc_shortcode.php:584
+#: vc_shortcode.php:863
+#@ dotted
+msgid "Number Show"
+msgstr ""
+
+#: vc_shortcode.php:586
+#@ dotted
+msgid "Number Show of box"
+msgstr ""
+
+#: vc_shortcode.php:592
+#@ dotted
+msgid "Text Show All"
+msgstr ""
+
+#: vc_shortcode.php:597
+#: vc_shortcode.php:813
+#@ dotted
+msgid "Column"
+msgstr ""
+
+#: vc_shortcode.php:600
+#: vc_shortcode.php:679
+#@ dotted
+msgid "3 Columns"
+msgstr ""
+
+#: vc_shortcode.php:601
+#: vc_shortcode.php:680
+#@ dotted
+msgid "4 Columns"
+msgstr ""
+
+#: vc_shortcode.php:602
+#: vc_shortcode.php:678
+#@ dotted
+msgid "2 Columns"
+msgstr ""
+
+#: vc_shortcode.php:609
+#@ dotted
+msgid "Style 2"
+msgstr ""
+
+#: vc_shortcode.php:616
+#: vc_shortcode.php:695
+#@ dotted
+msgid "No Gutter"
+msgstr ""
+
+#: vc_shortcode.php:623
+#@ dotted
+msgid "Hide Filter"
+msgstr ""
+
+#: vc_shortcode.php:630
+#: vc_shortcode.php:690
+#@ dotted
+msgid "Hide Categories Under Title"
+msgstr ""
+
+#: vc_shortcode.php:639
+#@ dotted
+msgid "OT Portfolio Silder"
+msgstr ""
+
+#: vc_shortcode.php:650
+#@ dotted
+msgid "Style 1 : Title Under Image"
+msgstr ""
+
+#: vc_shortcode.php:651
+#@ dotted
+msgid "Style 2 : Title In Overlay"
+msgstr ""
+
+#: vc_shortcode.php:668
+#@ dotted
+msgid "Number Portfolio Show"
+msgstr ""
+
+#: vc_shortcode.php:675
+#@ dotted
+msgid "Visible Of Row"
+msgstr ""
+
+#: vc_shortcode.php:685
+#@ dotted
+msgid "Bottom Navigation"
+msgstr ""
+
+#: vc_shortcode.php:706
+#@ dotted
+msgid "OT Fun Facts"
+msgstr ""
+
+#: vc_shortcode.php:731
+#@ dotted
+msgid "Subtitle"
+msgstr ""
+
+#: vc_shortcode.php:738
+#: vc_shortcode.php:770
+#@ dotted
+msgid "Number"
+msgstr ""
+
+#: vc_shortcode.php:740
+#@ dotted
+msgid "Number of box"
+msgstr ""
+
+#: vc_shortcode.php:744
+#: vc_shortcode.php:888
+#@ dotted
+msgid "Dark Background"
+msgstr ""
+
+#: vc_shortcode.php:753
+#@ dotted
+msgid "OT Progress Skill"
+msgstr ""
+
+#: vc_shortcode.php:772
+#@ dotted
+msgid "Number of skill"
+msgstr ""
+
+#: vc_shortcode.php:780
+#@ dotted
+msgid "OT Logo Clients"
+msgstr ""
+
+#: vc_shortcode.php:791
+#@ dotted
+msgid "Carousel"
+msgstr ""
+
+#: vc_shortcode.php:792
+#@ dotted
+msgid "Group"
+msgstr ""
+
+#: vc_shortcode.php:799
+#@ dotted
+msgid "Logo Clients"
+msgstr ""
+
+#: vc_shortcode.php:802
+#@ dotted
+msgid "Use link out for logo client by enter link input caption image, View guide here: http://vegatheme.com/images/add-link-logo.jpg , Recomended Size: 200 x 130. "
+msgstr ""
+
+#: vc_shortcode.php:816
+#@ dotted
+msgid "Number columns each rows. Recommend: 4, 5 or 6. Default: 4."
+msgstr ""
+
+#: vc_shortcode.php:825
+#@ dotted
+msgid "OT Image Carousel"
+msgstr ""
+
+#: vc_shortcode.php:835
+#@ dotted
+msgid "Images"
+msgstr ""
+
+#: vc_shortcode.php:845
+#@ dotted
+msgid "OT Twitter"
+msgstr ""
+
+#: vc_shortcode.php:855
+#@ dotted
+msgid "User"
+msgstr ""
+
+#: vc_shortcode.php:872
+#@ dotted
+msgid "Style1: Align Left"
+msgstr ""
+
+#: vc_shortcode.php:873
+#@ dotted
+msgid "Style1: Align Center"
+msgstr ""
+
+#: vc_shortcode.php:880
+#@ dotted
+msgid "Show Navigation"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:60
+#@ dotted
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+#@ dotted
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+#@ dotted
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:92
+#@ dotted
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:93
+#@ dotted
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+#@ dotted
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+#@ dotted
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+

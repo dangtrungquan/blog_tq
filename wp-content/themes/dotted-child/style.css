@@ -1,0 +1,14 @@
+/*
+Theme Name:     Dotted Child
+Theme URI:      http://demo.oceanthemes.net/dotted/
+Description:    Make your modifications to [Parent Theme] in this child theme.
+Author:         OceanThemes
+Author URI:     http://oceanthemes.net/
+Version:        1.0
+Template:       dotted
+*/
+
+@import url("../dotted/style.css");
+ 
+/* =Theme customization starts here
+------------------------------------------------------- */
